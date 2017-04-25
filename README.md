@@ -1,6 +1,6 @@
 # npmtest-react-semantic-ui
 
-#### test coverage for  [react-semantic-ui (v0.2.0)](https://github.com/jhudson8/react-semantic-ui)  [![npm package](https://img.shields.io/npm/v/npmtest-react-semantic-ui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-semantic-ui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-semantic-ui.svg)](https://travis-ci.org/npmtest/node-npmtest-react-semantic-ui)
+#### basic test coverage for  [react-semantic-ui (v0.2.0)](https://github.com/jhudson8/react-semantic-ui)  [![npm package](https://img.shields.io/npm/v/npmtest-react-semantic-ui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-semantic-ui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-semantic-ui.svg)](https://travis-ci.org/npmtest/node-npmtest-react-semantic-ui)
 
 #### semantic-ui components build for React
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-semantic-ui/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-semantic-ui/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-semantic-ui/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-semantic-ui/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-semantic-ui/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-semantic-ui/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-semantic-ui/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-semantic-ui/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-semantic-ui/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-semantic-ui/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-semantic-ui/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-semantic-ui/build/coverage.html/index.html)
 
@@ -81,7 +81,8 @@
         "type": "git",
         "url": "git+https://github.com/jhudson8/react-semantic-ui.git"
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 
